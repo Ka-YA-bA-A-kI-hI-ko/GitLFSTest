@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 488aee28f8cd4bf478c908fb885ff703
+timeCreated: 1505549486
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100725
+  packageName: POLY STYLE - Sci-Fi Characters
+  packageVersion: 1.1
+  assetPath: Assets/POLY STYLE - Sci-Fi Characters/Script/AnimatorSwitch.cs
+  uploadId: 217230

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3ed4c34c2363a3d459062dc28935ca2e
+timeCreated: 1505708280
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100725
+  packageName: POLY STYLE - Sci-Fi Characters
+  packageVersion: 1.1
+  assetPath: Assets/POLY STYLE - Sci-Fi Characters/Script/TakeScreenshot.cs
+  uploadId: 217230

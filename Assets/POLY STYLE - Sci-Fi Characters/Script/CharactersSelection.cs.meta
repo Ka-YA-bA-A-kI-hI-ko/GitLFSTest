@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a67c38b8aedf61d46bbdde377a4fac39
+timeCreated: 1512790389
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100725
+  packageName: POLY STYLE - Sci-Fi Characters
+  packageVersion: 1.1
+  assetPath: Assets/POLY STYLE - Sci-Fi Characters/Script/CharactersSelection.cs
+  uploadId: 217230

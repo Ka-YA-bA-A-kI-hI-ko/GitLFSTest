@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 017ca72b9e8a749058d13ebd527e98fa
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100725
+  packageName: POLY STYLE - Sci-Fi Characters
+  packageVersion: 1.1
+  assetPath: Assets/POLY STYLE - Sci-Fi Characters/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader
+  uploadId: 217230

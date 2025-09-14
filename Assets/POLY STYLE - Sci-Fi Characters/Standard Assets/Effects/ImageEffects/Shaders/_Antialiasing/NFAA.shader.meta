@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: ce0cb2621f6d84e21a87414e471a3cce
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100725
+  packageName: POLY STYLE - Sci-Fi Characters
+  packageVersion: 1.1
+  assetPath: Assets/POLY STYLE - Sci-Fi Characters/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader
+  uploadId: 217230

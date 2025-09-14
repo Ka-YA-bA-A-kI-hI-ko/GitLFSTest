@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d7eca777be228ee4e9b9329f5a035997
+timeCreated: 1512790389
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100725
+  packageName: POLY STYLE - Sci-Fi Characters
+  packageVersion: 1.1
+  assetPath: Assets/POLY STYLE - Sci-Fi Characters/Script/ObjectRotate.cs
+  uploadId: 217230

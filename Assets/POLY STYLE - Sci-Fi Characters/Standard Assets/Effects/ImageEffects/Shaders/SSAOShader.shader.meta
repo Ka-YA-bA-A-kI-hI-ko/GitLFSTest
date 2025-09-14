@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 43ca18288c424f645aaa1e9e07f04c50
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100725
+  packageName: POLY STYLE - Sci-Fi Characters
+  packageVersion: 1.1
+  assetPath: Assets/POLY STYLE - Sci-Fi Characters/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader
+  uploadId: 217230
